@@ -52,7 +52,6 @@
 		<dc:source>https://archive.org/details/bridalwreath0001sigr</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Kristin_Lavransdatter</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/sigrid-undset_the-bridal-wreath_charles-archer_j-s-scott</meta>
 		<dc:creator id="author">Sigrid Undset</dc:creator>
 		<meta property="file-as" refines="#author">Undset, Sigrid</meta>
