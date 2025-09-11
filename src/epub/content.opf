@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/sigrid-undset/the-bridal-wreath/charles-archer_j-s-scott</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-09-11T20:15:49Z</dc:date>
+		<meta property="dcterms:modified">2025-09-11T20:15:49Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -45,13 +45,13 @@
 		<dc:description id="description">In 14th-century Norway, a nobleman’s daughter grows up and faces passion, sin, and filial piety.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Kristin is the daughter of a 14th-century Norwegian nobleman and farmer of great integrity. Her father, though successful, is somewhat out of place, being made for war and the command of men. Her mother has long been unhappy. Despite tragic circumstances, Kristin grows up to be a happy, if willful, young woman. Betrothed at fifteen to the well-born son of a wealthy neighbor, she wrestles with passion and duty as she finds her place in the world.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Bridal Wreath&lt;/i&gt; is the first book of the trilogy &lt;i&gt;Kristin Lavransdatter&lt;/i&gt;, the most well-known work by &lt;a href="https://standardebooks.org/ebooks/sigrid-undset"&gt;Sigrid Undset&lt;/a&gt;, who won the Nobel Prize in Literature in 1928 on its strength. Undset’s realistic portrayal of the medieval world and a complex female protagonist remains an accurate rendition of the 14th century and a very enjoyable novel of the early 20th.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Bridal Wreath&lt;/i&gt; is the first book of the &lt;a href="https://standardebooks.org/collections/kristin-lavransdatter"&gt;&lt;i&gt;Kristin Lavransdatter&lt;/i&gt;&lt;/a&gt; trilogy, &lt;a href="https://standardebooks.org/ebooks/sigrid-undset"&gt;Sigrid Undset&lt;/a&gt; best-known work. Undset’s realistic portrayal of the medieval world, along with her complex female protagonist, remains a landmark in literature.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/67929</dc:source>
 		<dc:source>https://archive.org/details/bridalwreath0001sigr</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">111913</meta>
+		<meta property="se:reading-ease.flesch">82.68</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/sigrid-undset_the-bridal-wreath_charles-archer_j-s-scott</meta>
 		<dc:creator id="author">Sigrid Undset</dc:creator>
 		<meta property="file-as" refines="#author">Undset, Sigrid</meta>
@@ -91,6 +91,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-1">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.brokenandsaved.com/</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
