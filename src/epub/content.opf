@@ -50,7 +50,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/67929</dc:source>
 		<dc:source>https://archive.org/details/bridalwreath0001sigr</dc:source>
-		<meta property="se:word-count">111913</meta>
+		<meta property="se:word-count">111221</meta>
 		<meta property="se:reading-ease.flesch">82.68</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/sigrid-undset_the-bridal-wreath_charles-archer_j-s-scott</meta>
 		<dc:creator id="author">Sigrid Undset</dc:creator>
