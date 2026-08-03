@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/sigrid-undset/the-bridal-wreath/charles-archer_j-s-scott</dc:identifier>
 		<dc:date>2025-09-11T20:15:49Z</dc:date>
@@ -43,11 +43,11 @@
 		<meta id="collection-1" property="belongs-to-collection">Kristin Lavransdatter</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">In 14th-century Norway, a nobleman’s daughter grows up and faces passion, sin, and filial piety.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>In 14th-century Norway, a nobleman’s daughter grows up and faces passion, sin, and filial piety.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Kristin is the daughter of a 14th-century Norwegian nobleman and farmer of great integrity. Her father, though successful, is somewhat out of place, being made for war and the command of men. Her mother has long been unhappy. Despite tragic circumstances, Kristin grows up to be a happy, if willful, young woman. Betrothed at fifteen to the well-born son of a wealthy neighbor, she wrestles with passion and duty as she finds her place in the world.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Bridal Wreath&lt;/i&gt; is the first book of the &lt;a href="https://standardebooks.org/collections/kristin-lavransdatter"&gt;Kristin Lavransdatter&lt;/a&gt; trilogy, &lt;a href="https://standardebooks.org/ebooks/sigrid-undset"&gt;Sigrid Undset’s&lt;/a&gt; best-known work. Undset’s realistic portrayal of the medieval world, along with her complex female protagonist, remains a landmark in literature.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/67929</dc:source>
 		<dc:source>https://archive.org/details/bridalwreath0001sigr</dc:source>
